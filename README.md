@@ -33,6 +33,12 @@
     <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="40"/> </a>
 </p>
 
+### 📚 Some dev.to articles written by me
+- https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7
+- https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb
+- https://dev.to/jasmeetbali/closures-in-javascript-41c9
+- https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id
+- https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6
 
 ### 🌌 Space Fact (Pillars of Creation,Eagle Nebula)
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/IO0OuLh.jpeg" height="150px"/></a>
