@@ -2,10 +2,9 @@
 
 ## 💭 What's up for 2022:
 - 🧩 Aligning More Towards Microservices Practices, Learn from <a href="https://en.wikipedia.org/wiki/Robert_C._Martin">👨‍🎓"Uncle Bob"</a>(Software Design Principles Guide) 
-- 🧪 To Explore Go Or Rust
-- 🐱‍👤 Strengthening Web3.0 Principles With Hands On Advanced Projects including NFT's,DAO's,IPFS
-- 🥬 Practicing Python,Next,Nest,Redux,flutter & AI/ML 
-- 🗨 all in all nothing much will just be figuring out life for now.... 
+- 🧪 To Explore Go Or Rust & Data Science
+- 🥬 Practicing Python,Next,Nest,Redux,flutter & AI/ML  
+- 🗨 MOST IMPORTANTLY 🐱‍🚀 just figuring out life for now.... 
 
 
 ## 🧰 Toolkit:
