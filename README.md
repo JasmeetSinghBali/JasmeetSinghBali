@@ -35,8 +35,8 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> </a>
         
     <a href="https://www.ibm.com/in-en/topics/what-is-blockchain" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/344/external-blockchain-cryptocurrency-vitaliy-gorbachev-flat-vitaly-gorbachev-1.png" height="40"/> </a>
-</a>
     <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_solidity.svg" height="40"/> </a>
+
 </p>
 
 ### 📚 Some dev.to articles written by me
