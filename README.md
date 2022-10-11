@@ -22,15 +22,14 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="45"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45"/> </a>
     <a href="https://jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/> </a>
-    <a href="https://mochajs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-ar21.svg"/> </a>
-    <a href="https://www.chaijs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"/> </a>
     <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" height="70"/>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> </a>        
-    <a href="https://www.ibm.com/in-en/topics/what-is-blockchain" target="_blank"> <img src="https://img.icons8.com/external-vitaliy-gorbachev-flat-vitaly-gorbachev/344/external-blockchain-cryptocurrency-vitaliy-gorbachev-flat-vitaly-gorbachev-1.png" height="40"/> </a>
-    <a href="https://docs.soliditylang.org/en/v0.8.11/" target="_blank"> <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_solidity.svg" height="40"/> </a>
+    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> </a>
     <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"/> </a>
+    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"> <img src="https://imgs.search.brave.com/hnpqghGWLguOqs9JGrY_w39K3ziz69mhNE1bxojr2WI/rs:fit:406:430:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tWlE2bjJBd183/VTgvV1BzNjE0aHFj/V0kvQUFBQUFBQUFB/WU0vZ3BKMkNNVlFT/b1FST2l2NjY0dXVq/MGc4WWlod3F5d3B3/Q0xjQi9zMTYwMC9S/ZXN0JTJCQVBJLmpw/Zw" width="45" height="45" /> </a>
+    <a href="https://graphql.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"/></a>
+    <a href="https://aws.amazon.com/microservices/"><img src="https://d1.awsstatic.com/Developer%20Marketing/containers/monolith_1-monolith-microservices.70b547e30e30b013051d58a93a6e35e77408a2a8.png" height="70" width="75"/></a>
 </p>
 
 ### 📚 Some dev.to articles written by me
