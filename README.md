@@ -30,6 +30,7 @@
     <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"> <img src="https://imgs.search.brave.com/hnpqghGWLguOqs9JGrY_w39K3ziz69mhNE1bxojr2WI/rs:fit:406:430:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tWlE2bjJBd183/VTgvV1BzNjE0aHFj/V0kvQUFBQUFBQUFB/WU0vZ3BKMkNNVlFT/b1FST2l2NjY0dXVq/MGc4WWlod3F5d3B3/Q0xjQi9zMTYwMC9S/ZXN0JTJCQVBJLmpw/Zw" width="45" height="45" /> </a>
     <a href="https://graphql.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"/></a>
     <a href="https://aws.amazon.com/microservices/"><img src="https://d1.awsstatic.com/Developer%20Marketing/containers/monolith_1-monolith-microservices.70b547e30e30b013051d58a93a6e35e77408a2a8.png" height="70" width="75"/></a>
+    <a href="https://swagger.io/"><img src="https://imgs.search.brave.com/uBvvbZ-BNvbu1s07NsLkn8sisnKLOAJb54DKZwUtbRU/rs:fit:1200:392:1/g:ce/aHR0cHM6Ly93d3cu/c2NvdHRicmFkeTkx/LmNvbS9pbWcvbG9n/b3Mvc3dhZ2dlci1i/YW5uZXIucG5n" width="100" height="60"/></a>
 </p>
 
 ### 📚 Some dev.to articles written by me
