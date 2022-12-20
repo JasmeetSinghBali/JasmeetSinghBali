@@ -1,9 +1,13 @@
 <a href="#"><img src="https://github.com/Jasmeet-1998/Jasmeet-1998/blob/main/The%20more%20I%20know%20I%20realize%20I%20know%20nothing.....png?raw=true" width="1000"></a>
 
-## 💭 What's up for 2022:
-- 🧩 Aligning More Towards Microservices Practices, Learn from <a href="https://en.wikipedia.org/wiki/Robert_C._Martin">👨‍🎓"Uncle Bob"</a>(Software Design Principles Guide) 
-- 🧪 To Explore Go Or Rust & Data Science
-- 🥬 Practicing Python,Next,Nest,Redux,flutter & AI/ML  
+## 💭 What's up for 2023:
+- 🧩 rpc (trpc|grpc) orientations
+- 🧩 golang microservice POC's & project
+- 🏎 cope up with frequent nextjs changes
+- 📝 practice more advance typescript  & revise graphql,react native & 
+explore data science & cassandra db more
+- 🧪 explore rust & rocket.rs https://rocket.rs/
+- 🥬 explore Python+DjangoRest https://www.django-rest-framework.org/  
 - 🗨 MOST IMPORTANTLY 🐱‍🚀 just figuring out life for now.... 
 
 
