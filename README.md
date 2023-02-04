@@ -1,15 +1,7 @@
+<h1 align="center">Jasmeet Singh Bali</h1>
+<h3 align="center">🐱‍🚀 Full Stack Engineer</h3>
+
 <a href="#"><img src="https://github.com/Jasmeet-1998/Jasmeet-1998/blob/main/The%20more%20I%20know%20I%20realize%20I%20know%20nothing.....png?raw=true" width="1000"></a>
-
-## 💭 What's up for 2023:
-- 🧩 rpc (trpc|grpc) orientations
-- 🧩 golang microservice POC's & project
-- 🏎 cope up with frequent nextjs changes
-- 📝 practice more advance typescript  & revise graphql,react native & 
-explore data science & cassandra db more
-- 🧪 explore rust & rocket.rs https://rocket.rs/
-- 🥬 explore Python+DjangoRest https://www.django-rest-framework.org/  
-- 🗨 MOST IMPORTANTLY 🐱‍🚀 just figuring out life for now.... 
-
 
 ## 🧰 Toolkit:
 
@@ -40,6 +32,25 @@ explore data science & cassandra db more
     <a href="https://swagger.io/"><img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="80" height="60"/>
     <a href="https://opentelemetry.io/"><img src="https://upload.vectorlogo.zone/logos/opentelemetryio/images/3781f9ce-6ceb-4c7a-a329-02cc1aae0558.svg" width="100" height="60"/>
 </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmeet-1998" alt="jasmeet-1998" /></a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" /></p>
+
+<h3 align="center">🚀 What's Up For 2023</h3>
+
+- 🌱 **rpc (trpc|grpc) orientations**
+
+- 📝 **practice more advance typescript & revise graphql,react native & explore data science & cassandra db more**
+
+- 📚 **golang microservice POC's & project**
+
+- 🧩 **cope up with frequent nextjs changes**
+
+- 🧪 **explore rust & rocket.rs https://rocket.rs/, explore Python+DjangoRest https://www.django-rest-framework.org/**
+
 
 ### 📚 Some dev.to articles written by me
 - https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7
