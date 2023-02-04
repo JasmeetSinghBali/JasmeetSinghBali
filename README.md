@@ -1,7 +1,4 @@
-<h1 align="center">Jasmeet Singh Bali</h1>
-<h3 align="center">🐱‍🚀 Full Stack Engineer</h3>
-
-<a href="#"><img src="https://github.com/Jasmeet-1998/Jasmeet-1998/blob/main/The%20more%20I%20know%20I%20realize%20I%20know%20nothing.....png?raw=true" width="1000"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmeet-1998&label=Hits&color=0eb429&style=plastic" alt="jasmeet-1998" /> </p>
 
 ## 🧰 Toolkit:
 
@@ -33,13 +30,21 @@
     <a href="https://opentelemetry.io/"><img src="https://upload.vectorlogo.zone/logos/opentelemetryio/images/3781f9ce-6ceb-4c7a-a329-02cc1aae0558.svg" width="100" height="60"/>
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmeet-1998" alt="jasmeet-1998" /></a> </p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" />
+<br/>
+<br/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmeet-1998" alt="jasmeet-1998" /></a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" /></p>
+<p></p>
+<p>&nbsp;</p>
+<br/>
+<p align="left">  </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" /></p>
 
-<h3 align="center">🚀 What's Up For 2023</h3>
+### 🎯 What's Up For 2023:
 
 - 🌱 **rpc (trpc|grpc) orientations**
 
@@ -59,10 +64,6 @@
 - https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id
 - https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6
 
-### 🌌 Space Fact (Pillars of Creation,Eagle Nebula)
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/IO0OuLh.jpeg" height="150px"/></a>
-
-<p align="center">
-  Stretching roughly 4 to 5 light-years, the Pillars of Creation are a fascinating but relatively small feature of the entire Eagle Nebula, which spans 70 by 55 light-years. The nebula, discovered in 1745 by the Swiss astronomer Jean-Philippe Loys de Chéseaux, is located 7,000 light-years from Earth in the constellation Serpens. 
-  Although this is not Hubble’s first image of this iconic feature of the Eagle Nebula, it is the most detailed. The blue colors in the image represent oxygen, red is sulfur, and green represents both nitrogen and hydrogen. The pillars are bathed in the scorching ultraviolet light from a cluster of young stars located just outside the frame. The winds from these stars are slowly eroding the towers of gas and dust.
-</p>
+### 🌱 Most Recent Sample-Work
+ 
+![Keeper-app-preview-gif](https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif)
