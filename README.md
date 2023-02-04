@@ -14,14 +14,18 @@ explore data science & cassandra db more
 ## 🧰 Toolkit:
 
 <p align="left">
+    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"> <img src="https://imgs.search.brave.com/hnpqghGWLguOqs9JGrY_w39K3ziz69mhNE1bxojr2WI/rs:fit:406:430:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tWlE2bjJBd183/VTgvV1BzNjE0aHFj/V0kvQUFBQUFBQUFB/WU0vZ3BKMkNNVlFT/b1FST2l2NjY0dXVq/MGc4WWlod3F5d3B3/Q0xjQi9zMTYwMC9S/ZXN0JTJCQVBJLmpw/Zw" width="45" height="45" /> </a>
+    <a href="https://trpc.io/"><img src="https://trpc.io/img/logo-text-white.svg" width="80" height="80"/></a>
+    <a href="https://graphql.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"/></a>
+    <a href="https://aws.amazon.com/microservices/"><img src="https://d1.awsstatic.com/Developer%20Marketing/containers/monolith_1-monolith-microservices.70b547e30e30b013051d58a93a6e35e77408a2a8.png" height="70" width="75"/>
     <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="50"/> </a>
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>
     <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="45" height="50"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a>
-    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"/> </a>
     <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"/> </a>
+    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="45"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45"/> </a>
@@ -33,11 +37,7 @@ explore data science & cassandra db more
     <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="100" height="60"/>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> </a>
     <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"/> </a>
-    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"> <img src="https://imgs.search.brave.com/hnpqghGWLguOqs9JGrY_w39K3ziz69mhNE1bxojr2WI/rs:fit:406:430:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tWlE2bjJBd183/VTgvV1BzNjE0aHFj/V0kvQUFBQUFBQUFB/WU0vZ3BKMkNNVlFT/b1FST2l2NjY0dXVq/MGc4WWlod3F5d3B3/Q0xjQi9zMTYwMC9S/ZXN0JTJCQVBJLmpw/Zw" width="45" height="45" /> </a>
-    <a href="https://trpc.io/"><img src="https://trpc.io/img/logo-text-white.svg" width="80" height="80"/></a>
-    <a href="https://graphql.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"/></a>
-    <a href="https://aws.amazon.com/microservices/"><img src="https://d1.awsstatic.com/Developer%20Marketing/containers/monolith_1-monolith-microservices.70b547e30e30b013051d58a93a6e35e77408a2a8.png" height="70" width="75"/>
-    <a href="https://swagger.io/"><img src="https://imgs.search.brave.com/uBvvbZ-BNvbu1s07NsLkn8sisnKLOAJb54DKZwUtbRU/rs:fit:1200:392:1/g:ce/aHR0cHM6Ly93d3cu/c2NvdHRicmFkeTkx/LmNvbS9pbWcvbG9n/b3Mvc3dhZ2dlci1i/YW5uZXIucG5n" width="100" height="60"/>
+    <a href="https://swagger.io/"><img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="80" height="60"/>
     <a href="https://opentelemetry.io/"><img src="https://upload.vectorlogo.zone/logos/opentelemetryio/images/3781f9ce-6ceb-4c7a-a329-02cc1aae0558.svg" width="100" height="60"/>
 </p>
 
