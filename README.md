@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jasmeet-1998&label=Hits&color=0eb429&style=plastic" alt="jasmeet-1998" /> </p>
-
 ## 🧰 Toolkit:
 
 <p align="left">
@@ -37,11 +35,6 @@
 <br/>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmeet-1998" alt="jasmeet-1998" /></a>
 </p>
-
-<p></p>
-<p>&nbsp;</p>
-<br/>
-<p align="left">  </p>
 
 
 ### 🎯 What's Up For 2023:
