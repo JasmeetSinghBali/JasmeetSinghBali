@@ -31,9 +31,6 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" />
-<br/>
-<br/>
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jasmeet-1998" alt="jasmeet-1998" /></a>
 </p>
 
 
