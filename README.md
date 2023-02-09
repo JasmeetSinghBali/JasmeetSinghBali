@@ -28,9 +28,10 @@
     <a href="https://opentelemetry.io/"><img src="https://upload.vectorlogo.zone/logos/opentelemetryio/images/3781f9ce-6ceb-4c7a-a329-02cc1aae0558.svg" width="100" height="60"/>
 </p>
 
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" />
+<p align="center">
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
+<img  src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" />
+</p>
 
 
 
