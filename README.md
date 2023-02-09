@@ -1,3 +1,13 @@
+[![Linkedin Badge](https://img.shields.io/badge/-jasmeetbali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmeet-singh-bali-057a751b1/)](https://www.linkedin.com/in/jasmeet-singh-bali-057a751b1/)
+[![Website Badge](https://img.shields.io/badge/-jasmeetBali.Portfolio-purple?style=flat-square&url=https://jasmeetbali-portfolio.vercel.app/)](https://jasmeetbali-portfolio.vercel.app/)
+[![Website Badge](https://img.shields.io/badge/-jasmeetbali.DEV-black?style=flat-square&url=https://dev.to/jasmeetbali)](https://dev.to/jasmeetbali)
+[![Gmail Badge](https://img.shields.io/badge/-jasmeetbali.dev.2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeetbali.dev.2021@gmail.com)](mailto:jasmeetbali.dev.2021@gmail.com)
+
+<p align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" />
+</p>
+
 ## 🧰 Toolkit:
 
 <p align="left">
@@ -28,14 +38,7 @@
     <a href="https://opentelemetry.io/"><img src="https://upload.vectorlogo.zone/logos/opentelemetryio/images/3781f9ce-6ceb-4c7a-a329-02cc1aae0558.svg" width="100" height="60"/>
 </p>
 
-<p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
-<img  src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" />
-</p>
-
-
-
-## 🗃 Recent Work-Samples 
+## 🗃 Recent Work-Samples [![Website Badge](https://img.shields.io/badge/-keeper.jsys-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/)
  
 ![Keeper-app-preview-gif](https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif)
 
@@ -55,9 +58,13 @@
 - 🧪 explore Python+DjangoRest https://www.django-rest-framework.org/**
 
 
-## 📚 Some dev.to articles written by me
-- https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7
-- https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb
-- https://dev.to/jasmeetbali/closures-in-javascript-41c9
-- https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id
-- https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6
+## 📚 Some dev.to articles written by me: [![Website Badge](https://img.shields.io/badge/-DEV-purple?style=flat-square&url=https://dev.to/jasmeetbali)](https://dev.to/jasmeetbali)
+
+[![Website Badge](https://img.shields.io/badge/-nestjs.barebones.controllers.reqobjects-teal?style=flat-square&url=https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)](https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)
+[![Website Badge](https://img.shields.io/badge/-execution.context.exploring.the.core.concepts.of.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)](https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)
+[![Website Badge](https://img.shields.io/badge/-closures.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/closures-in-javascript-41c9)](https://dev.to/jasmeetbali/closures-in-javascript-41c9)
+[![Website Badge](https://img.shields.io/badge/-scope.chain.scope.lexical.environment.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)](https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)
+[![Website Badge](https://img.shields.io/badge/-undefined.vs.not.defined.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)](https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)
+ 
+
+
