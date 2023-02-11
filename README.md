@@ -24,6 +24,8 @@
     <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="50"/> </a>
     <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"/> </a>
     <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45"/> </a>
+    <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45" height="45"/> </a>
+    <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="45" height="45"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" height="45"/> </a>
     <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" height="45"/> </a>
     <a href="https://jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/> </a>
@@ -34,8 +36,11 @@
     <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="100" height="60"/>
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"/> </a>
     <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg"/> </a>
+    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg"/> </a>
     <a href="https://swagger.io/"><img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="80" height="60"/>
     <a href="https://opentelemetry.io/"><img src="https://upload.vectorlogo.zone/logos/opentelemetryio/images/3781f9ce-6ceb-4c7a-a329-02cc1aae0558.svg" width="100" height="60"/>
+    <a href="https://grafana.com/"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="100" height="60"/>
+    <a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="100" height="60"/>    
 </p>
 
 ## 🗃 Recent Work-Samples [![Website Badge](https://img.shields.io/badge/-keeper.jsys-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/)
