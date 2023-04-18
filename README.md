@@ -5,7 +5,6 @@
 
 <p align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
-    <img  src="https://github-readme-stats.vercel.app/api?username=jasmeet-1998&show_icons=true&theme=tokyonight&locale=en" alt="jasmeet-1998" />
 </p>
 
 ## 🧰 Toolkit:
