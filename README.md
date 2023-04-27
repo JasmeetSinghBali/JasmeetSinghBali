@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jasmeetbali.dev.2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeetbali.dev.2021@gmail.com)](mailto:jasmeetbali.dev.2021@gmail.com)
 
 <p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeet-1998&theme=dark" alt="jasmeet-1998" />
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JasmeetSinghBali&theme=dark" alt="JasmeetSinghBali" />
 </p>
 
 ## 🧰 Toolkit:
