@@ -46,21 +46,29 @@
 ## 🗃 Recent Work-Samples [![Website Badge](https://img.shields.io/badge/-keeper.jsys-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/) [![Website Badge](https://img.shields.io/badge/-microservice.advanced-cyan?style=flat-square&url=https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)](https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)
  
 ![Keeper-app-preview-gif](https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif)
+</br>
+<img src="https://user-images.githubusercontent.com/67728575/264314445-586f147d-87ac-4089-b40a-a2db1ee452d7.jpg" width="100" height="300"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314450-957a3dba-bdb0-4d72-9f42-5667a78eb34b.jpg" width="100" height="300"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314431-edebaab3-5ba4-495d-9ef5-4df597288366.jpg" width="100" height="300"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314269-977d9458-bbb2-4a48-afcc-36bd8324df77.jpeg" width="100" height="300"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314428-c3426dfb-833e-4416-8516-73ef9517c08d.jpeg" width="100" height="300"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314380-20aafd75-c1cc-439b-b4c3-1fe7744cdba8.jpeg" width="100" height="300"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314358-2938dd46-85e8-4155-9acc-e44f0cbdde68.jpeg" width="100" height="300"/>
 
 
 ## 🎯 What's Up For 2023:
 
 - 🌱 **rpc (trpc|grpc) orientations**
 
-- 📝 **practice more advance typescript & revise graphql,react native & explore data science & cassandra db more**
+- 📝 **practice more advance typescript & revise graphql,react native & explore data science, vector embeddings/SBERT/HuggingFace & vector database like pinecone**
 
 - 📚 **golang microservice POC's & project**
 
 - 🧩 **cope up with frequent nextjs changes**
 
-- 🧪 **explore rust & rocket.rs https://rocket.rs/
+- 🧪 **explore Python+FastApi**
 
-- 🧪 explore Python+DjangoRest https://www.django-rest-framework.org/**
+- 🧪 **explore rust & rocket.rs https://rocket.rs/**
 
 
 ## 📚 Some dev.to articles written by me: [![Website Badge](https://img.shields.io/badge/-DEV-purple?style=flat-square&url=https://dev.to/jasmeetbali)](https://dev.to/jasmeetbali)
