@@ -47,13 +47,13 @@
  
 ![Keeper-app-preview-gif](https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif)
 </br>
-<img src="https://user-images.githubusercontent.com/67728575/264314445-586f147d-87ac-4089-b40a-a2db1ee452d7.jpg" width="100" height="300"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314450-957a3dba-bdb0-4d72-9f42-5667a78eb34b.jpg" width="100" height="300"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314431-edebaab3-5ba4-495d-9ef5-4df597288366.jpg" width="100" height="300"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314269-977d9458-bbb2-4a48-afcc-36bd8324df77.jpeg" width="100" height="300"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314428-c3426dfb-833e-4416-8516-73ef9517c08d.jpeg" width="100" height="300"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314380-20aafd75-c1cc-439b-b4c3-1fe7744cdba8.jpeg" width="100" height="300"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314358-2938dd46-85e8-4155-9acc-e44f0cbdde68.jpeg" width="100" height="300"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314445-586f147d-87ac-4089-b40a-a2db1ee452d7.jpg" width="80" height="200"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314450-957a3dba-bdb0-4d72-9f42-5667a78eb34b.jpg" width="80" height="200"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314431-edebaab3-5ba4-495d-9ef5-4df597288366.jpg" width="80" height="200"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314269-977d9458-bbb2-4a48-afcc-36bd8324df77.jpeg" width="80" height="200"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314428-c3426dfb-833e-4416-8516-73ef9517c08d.jpeg" width="80" height="200"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314380-20aafd75-c1cc-439b-b4c3-1fe7744cdba8.jpeg" width="80" height="200"/>
+<img src="https://user-images.githubusercontent.com/67728575/264314358-2938dd46-85e8-4155-9acc-e44f0cbdde68.jpeg" width="80" height="200"/>
 
 
 ## 🎯 What's Up For 2023:
