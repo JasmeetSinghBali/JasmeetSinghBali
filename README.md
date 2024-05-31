@@ -56,7 +56,7 @@
 <img src="https://user-images.githubusercontent.com/67728575/264314358-2938dd46-85e8-4155-9acc-e44f0cbdde68.jpeg" width="80" height="200"/>
 
 
-## 🎯 What's Up For 2023:
+## 🎯 What's Up For 2024:
 
 - 🌱 **rpc (trpc|grpc) orientations**
 
@@ -66,7 +66,7 @@
 
 - 🧩 **cope up with frequent nextjs changes**
 
-- 🧪 **explore Python+FastApi**
+- 🧪 **explore Python+FastApi with POC's project**
 
 - 🧪 **explore rust & rocket.rs https://rocket.rs/**
 
