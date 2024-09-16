@@ -1,11 +1,6 @@
-[![Website Badge](https://img.shields.io/badge/-jasmeetBali.Portfolio-purple?style=flat-square&url=https://jasmeet-bali.notion.site/jasmeet-bali/Jasmeet-Bali-Full-Stack-Engineer-2c394211269543ce915cff3e1b8db10c)](https://jasmeet-bali.notion.site/jasmeet-bali/Jasmeet-Bali-Full-Stack-Engineer-2c394211269543ce915cff3e1b8db10c)
 [![Linkedin Badge](https://img.shields.io/badge/-jasmeetbali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmeet-singh-bali-057a751b1/)](https://www.linkedin.com/in/jasmeet-singh-bali-057a751b1/)
 [![Website Badge](https://img.shields.io/badge/-jasmeetbali.DEV-black?style=flat-square&url=https://dev.to/jasmeetbali)](https://dev.to/jasmeetbali)
 [![Gmail Badge](https://img.shields.io/badge/-jasmeetbali.dev.2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeetbali.dev.2021@gmail.com)](mailto:jasmeetbali.dev.2021@gmail.com)
-
-<p align="center">
-    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=JasmeetSinghBali&theme=dark" alt="JasmeetSinghBali" />
-</p>
 
 ## 🧰 Toolkit:
 
@@ -43,7 +38,7 @@
     <a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="100" height="60"/>    
 </p>
 
-## 🗃 Recent Work-Samples [![Website Badge](https://img.shields.io/badge/-keeper.jsys-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/) [![Website Badge](https://img.shields.io/badge/-microservice.advanced-cyan?style=flat-square&url=https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)](https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)
+## 🗃 Recent Project Previews [![Website Badge](https://img.shields.io/badge/-keeper.jsys-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/) [![Website Badge](https://img.shields.io/badge/-microservice.advanced-cyan?style=flat-square&url=https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)](https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)
  
 ![Keeper-app-preview-gif](https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif)
 </br>
