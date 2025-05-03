@@ -51,17 +51,11 @@
 <img src="https://user-images.githubusercontent.com/67728575/264314358-2938dd46-85e8-4155-9acc-e44f0cbdde68.jpeg" width="80" height="200"/>
 
 
-## 🎯 What's Up For 2024:
+## 🎯 What's Up For 2025:
 
-- 🌱 **rpc (trpc|grpc) orientations**
+- 🌱 **json rpc orientations**
 
-- 📝 **practice more advance typescript & revise graphql,react native & explore data science, vector embeddings/SBERT/HuggingFace & vector database like pinecone**
-
-- 📚 **golang microservice POC's & project**
-
-- 🧩 **cope up with frequent nextjs changes**
-
-- 🧪 **explore Python+FastApi with POC's project**
+- 🧪 **explore new Agentic Protcols including MCP, A2A**
 
 - 🧪 **explore rust & rocket.rs https://rocket.rs/**
 
