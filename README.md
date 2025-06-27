@@ -3,6 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jasmeetbali.dev.2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeetbali.dev.2021@gmail.com)](mailto:jasmeetbali.dev.2021@gmail.com)
 
 
+
 ![REST](https://img.shields.io/badge/-REST-black?style=flat-square&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![Trpc](https://img.shields.io/badge/-Trpc-black?style=flat-square&logo=trpc)
@@ -66,12 +67,13 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square)
 
 
+## 📝 dev.to / medium.com 
+
 [![Website Badge](https://img.shields.io/badge/-nestjs.barebones.controllers.reqobjects-teal?style=flat-square&url=https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)](https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)
 [![Website Badge](https://img.shields.io/badge/-execution.context.exploring.the.core.concepts.of.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)](https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)
 [![Website Badge](https://img.shields.io/badge/-closures.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/closures-in-javascript-41c9)](https://dev.to/jasmeetbali/closures-in-javascript-41c9)
 [![Website Badge](https://img.shields.io/badge/-scope.chain.scope.lexical.environment.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)](https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)
 [![Website Badge](https://img.shields.io/badge/-undefined.vs.not.defined.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)](https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)
-
  
 ## 🎯 What's Up For 2025:
 
@@ -82,5 +84,5 @@
 - 🧪 **explore rust & rocket.rs https://rocket.rs/**
 
  
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JasmeetSinghBali" alt="JasmeetSinghBali" /></a> </p>
 
