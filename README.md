@@ -3,55 +3,76 @@
 [![Gmail Badge](https://img.shields.io/badge/-jasmeetbali.dev.2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeetbali.dev.2021@gmail.com)](mailto:jasmeetbali.dev.2021@gmail.com)
 
 
-## 🧰 Toolkit:
+![REST](https://img.shields.io/badge/-REST-black?style=flat-square&logo=swagger)
+![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+![Trpc](https://img.shields.io/badge/-Trpc-black?style=flat-square&logo=trpc)
+![MCP](https://img.shields.io/badge/-MCP-black?style=flat-square)
+![A2A](https://img.shields.io/badge/-A2A-black?style=flat-square)
+![JSON-RPC](https://img.shields.io/badge/-JSON--RPC-black?style=flat-square)
 
-<p align="left">
-    <a href="https://www.redhat.com/en/topics/api/what-is-a-rest-api"> <img src="https://imgs.search.brave.com/hnpqghGWLguOqs9JGrY_w39K3ziz69mhNE1bxojr2WI/rs:fit:406:430:1/g:ce/aHR0cHM6Ly8xLmJw/LmJsb2dzcG90LmNv/bS8tWlE2bjJBd183/VTgvV1BzNjE0aHFj/V0kvQUFBQUFBQUFB/WU0vZ3BKMkNNVlFT/b1FST2l2NjY0dXVq/MGc4WWlod3F5d3B3/Q0xjQi9zMTYwMC9S/ZXN0JTJCQVBJLmpw/Zw" width="25" height="25" /> </a>
-    <a href="https://trpc.io/"><img src="https://trpc.io/img/logo-text-white.svg" width="25" height="25"/></a>
-    <a href="https://graphql.org/"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" width="25" height="25"/></a>
-    <a href="https://aws.amazon.com/microservices/"><img src="https://d1.awsstatic.com/Developer%20Marketing/containers/monolith_1-monolith-microservices.70b547e30e30b013051d58a93a6e35e77408a2a8.png" width="25" height="25"/>
-    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="25" height="25"/> </a>
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="25" height="25"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" width="25" height="25"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" width="25" height="25"/> </a>
-    <a href="https://go.dev/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="25" height="25"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="25" height="25"/> </a>
-    <a style="padding-right:8px;" href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="25" height="25"/> </a>
-    <a href="https://redis.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" width="25" height="25"/> </a>
-    <a href="https://www.docker.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="25" height="25"/> </a>
-    <a href="https://kubernetes.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25" height="25"/> </a>
-    <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="25" height="25"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" width="25" height="25"/> </a>
-    <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="25" height="25"/> </a>
-    <a href="https://jestjs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="25" height="25"/> </a>
-    <a href="https://legacy.reactjs.org/docs/getting-started.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" width="25" height="25"/> </a>
-    <a href="https://reactnative.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="25" height="25"/> </a>
-    <a href="https://nestjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" width="25" height="25"/> </a>
-    <a href="https://nextjs.org/" target="_blank"> <img src="https://upload.vectorlogo.zone/logos/nextjs/images/60eff509-53dd-4280-92e7-7318fa02e934.svg" width="25" height="25"/>
-    <a href="https://www.prisma.io/"><img src="https://prismalens.vercel.app/header/logo-dark.svg" width="25" height="25"/></a>
-    <a href="https://tailwindcss.com/"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg" width="25" height="25"/>
-    <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" width="25" height="25"/> </a>
-    <a href="https://www.rabbitmq.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" width="25" height="25"/> </a>
-    <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-vertical.svg" width="25" height="25"/> </a>
-    <a href="https://swagger.io/"><img src="https://www.vectorlogo.zone/logos/openapis/openapis-icon.svg" width="25" height="25"/>
-    <a href="https://opentelemetry.io/"><img src="https://upload.vectorlogo.zone/logos/opentelemetryio/images/3781f9ce-6ceb-4c7a-a329-02cc1aae0558.svg" width="25" height="25"/>
-    <a href="https://grafana.com/"><img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="25" height="25"/>
-    <a href="https://prometheus.io/"><img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" width="25" height="25"/>    
-</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python) 
+![Go](https://img.shields.io/badge/-Go-black?style=flat-square&logo=go) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 
-## 🗃 Recent Project Previews [![Website Badge](https://img.shields.io/badge/-keeper.jsys-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/) [![Website Badge](https://img.shields.io/badge/-microservice.advanced-cyan?style=flat-square&url=https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)](https://github.com/Jasmeet-1998/Microservices/tree/master/nest_advanced_microservice)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
+![Fastapi](https://img.shields.io/badge/-Fastapi-black?style=flat-square&logo=Fastapi) 
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=nestjs)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+![Nextjs](https://img.shields.io/badge/-Nextjs-black?style=flat-square&logo=next.js) 
+![GoFiber](https://img.shields.io/badge/-GoFiber-black?style=flat-square&logo=gofiber)
+![React-Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
+![MCP SDK](https://img.shields.io/badge/-MCP%20SDK-black?style=flat-square)
+![Google ADK](https://img.shields.io/badge/-Google%20ADK-black?style=flat-square&logo=google)
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql) 
+![Neo4j](https://img.shields.io/badge/-Neo4j-black?style=flat-square&logo=neo4j) 
+![Pinecone](https://img.shields.io/badge/-Pinecone-black?style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
+![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat-square)
+
+![Langchain](https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=langchain)
+![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-black?style=flat-square&logo=llamaindex)
+![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square)
+![Ollama](https://img.shields.io/badge/-Ollama-black?style=flat-square&logo=ollama)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=huggingface)
+![SBERT](https://img.shields.io/badge/-SBERT-black?style=flat-square)
+![OpenAI API](https://img.shields.io/badge/-OpenAIAPI-black?style=flat-square&logo=openai)
+![Gemini API](https://img.shields.io/badge/-GeminiAPI-black?style=flat-square)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+![GithubActions](https://img.shields.io/badge/-GithubActions-black?style=flat-square&logo=githubactions) 
+![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
+![Swagger](https://img.shields.io/badge/-Swagger-black?style=flat-square&logo=swagger)
+![OpenTelemetry](https://img.shields.io/badge/-OpenTelemetry-black?style=flat-square&logo=opentelemetry)
+![Prometheus](https://img.shields.io/badge/-Prometheus-black?style=flat-square&logo=prometheus)
+![Grafana](https://img.shields.io/badge/-Grafana-black?style=flat-square&logo=grafana)
+![NX](https://img.shields.io/badge/-NX-black?style=flat-square&logo=nx) 
+![Minikube](https://img.shields.io/badge/-Minikube-black?style=flat-square)
+![Helm](https://img.shields.io/badge/-helm-black?style=flat-square&logo=helm)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=gcp)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
+![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka) 
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq) 
+
+![TanStackQuery](https://img.shields.io/badge/-TanStack%20Query-black?style=flat-square&logo=tanstackquery)
+![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=mui)![Shadcn UI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square&logo=shadcnui)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![NativeWind](https://img.shields.io/badge/-NativeWind-black?style=flat-square)
+![Chakra UI](https://img.shields.io/badge/-ChakraUI-black?style=flat-square&logo=chakraui)![React Native Paper](https://img.shields.io/badge/-React%20Native%20Paper-black?style=flat-square)
+![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square)
+
+
+[![Website Badge](https://img.shields.io/badge/-nestjs.barebones.controllers.reqobjects-teal?style=flat-square&url=https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)](https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)
+[![Website Badge](https://img.shields.io/badge/-execution.context.exploring.the.core.concepts.of.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)](https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)
+[![Website Badge](https://img.shields.io/badge/-closures.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/closures-in-javascript-41c9)](https://dev.to/jasmeetbali/closures-in-javascript-41c9)
+[![Website Badge](https://img.shields.io/badge/-scope.chain.scope.lexical.environment.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)](https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)
+[![Website Badge](https://img.shields.io/badge/-undefined.vs.not.defined.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)](https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)
+
  
-![Keeper-app-preview-gif](https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif)
-</br>
-<img src="https://user-images.githubusercontent.com/67728575/264314445-586f147d-87ac-4089-b40a-a2db1ee452d7.jpg" width="80" height="200"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314450-957a3dba-bdb0-4d72-9f42-5667a78eb34b.jpg" width="80" height="200"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314431-edebaab3-5ba4-495d-9ef5-4df597288366.jpg" width="80" height="200"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314269-977d9458-bbb2-4a48-afcc-36bd8324df77.jpeg" width="80" height="200"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314428-c3426dfb-833e-4416-8516-73ef9517c08d.jpeg" width="80" height="200"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314380-20aafd75-c1cc-439b-b4c3-1fe7744cdba8.jpeg" width="80" height="200"/>
-<img src="https://user-images.githubusercontent.com/67728575/264314358-2938dd46-85e8-4155-9acc-e44f0cbdde68.jpeg" width="80" height="200"/>
-
-
 ## 🎯 What's Up For 2025:
 
 - 🌱 **json rpc orientations**
@@ -60,14 +81,6 @@
 
 - 🧪 **explore rust & rocket.rs https://rocket.rs/**
 
-
-## 📚 Some dev.to articles written by me: [![Website Badge](https://img.shields.io/badge/-DEV-purple?style=flat-square&url=https://dev.to/jasmeetbali)](https://dev.to/jasmeetbali)
-
-[![Website Badge](https://img.shields.io/badge/-nestjs.barebones.controllers.reqobjects-teal?style=flat-square&url=https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)](https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)
-[![Website Badge](https://img.shields.io/badge/-execution.context.exploring.the.core.concepts.of.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)](https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)
-[![Website Badge](https://img.shields.io/badge/-closures.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/closures-in-javascript-41c9)](https://dev.to/jasmeetbali/closures-in-javascript-41c9)
-[![Website Badge](https://img.shields.io/badge/-scope.chain.scope.lexical.environment.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)](https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)
-[![Website Badge](https://img.shields.io/badge/-undefined.vs.not.defined.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)](https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)
  
 
 
