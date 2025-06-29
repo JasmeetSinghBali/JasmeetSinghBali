@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-jasmeetbali.dev.2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeetbali.dev.2021@gmail.com)](mailto:jasmeetbali.dev.2021@gmail.com)
 
 
-
+## 📌 Protocols-Languages-Frameworks-Databases-Tools
 ![REST](https://img.shields.io/badge/-REST-black?style=flat-square&logo=swagger)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
 ![Trpc](https://img.shields.io/badge/-Trpc-black?style=flat-square&logo=trpc)
@@ -58,7 +58,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker) 
 ![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka) 
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq) 
-
 ![TanStackQuery](https://img.shields.io/badge/-TanStack%20Query-black?style=flat-square&logo=tanstackquery)
 ![Material UI](https://img.shields.io/badge/-Material%20UI-black?style=flat-square&logo=mui)![Shadcn UI](https://img.shields.io/badge/-ShadcnUI-black?style=flat-square&logo=shadcnui)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
@@ -67,7 +66,9 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square)
 
 
-## 📝 dev.to / medium.com 
+## 📝 dev.to / medium.com
+
+[![Website Badge](https://img.shields.io/badge/-engineering.agentic.systems.series-teal?style=flat-square&url=https://medium.com/@jasmeetbali.dev.2021/engineering-agentic-systems-part-1-reinforcement-learning-vs-rule-based-inference-22ca11ab5c5f)](https://medium.com/@jasmeetbali.dev.2021/engineering-agentic-systems-part-1-reinforcement-learning-vs-rule-based-inference-22ca11ab5c5f)
 
 [![Website Badge](https://img.shields.io/badge/-nestjs.barebones.controllers.reqobjects-teal?style=flat-square&url=https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)](https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)
 [![Website Badge](https://img.shields.io/badge/-execution.context.exploring.the.core.concepts.of.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)](https://dev.to/jasmeetbali/execution-context-exploring-the-core-concepts-of-javascript-3kcb)
@@ -84,5 +85,5 @@
 - 🧪 **explore rust & rocket.rs https://rocket.rs/**
 
  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=JasmeetSinghBali" alt="JasmeetSinghBali" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=JasmeetSinghBali" alt="JasmeetSinghBali" /></p>
 
