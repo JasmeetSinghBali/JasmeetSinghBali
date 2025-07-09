@@ -66,6 +66,27 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square)
 
 
+## 🍿 Previews [![Website Badge](https://img.shields.io/badge/-Web.Development-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/) [![Website Badge](https://img.shields.io/badge/-Mobile.Development-cyan?style=flat-square&url=https://github.com/JasmeetSinghBali/WatchGuard_360-frontend-open)](https://github.com/JasmeetSinghBali/WatchGuard_360-frontend-open) [![Website Badge](https://img.shields.io/badge/-Desktop.App.Development-white?style=flat-square)]()
+
+
+https://github.com/user-attachments/assets/6e5d84bd-2dd0-40a2-9ecc-69a4518cc7dc
+
+</br>
+<p align="center">
+  <img src="https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif" width="60%" />
+</p>
+
+</br>
+<p align="center"> 
+ <img src="https://user-images.githubusercontent.com/67728575/264314445-586f147d-87ac-4089-b40a-a2db1ee452d7.jpg" width="100" /> 
+ <img src="https://user-images.githubusercontent.com/67728575/264314269-977d9458-bbb2-4a48-afcc-36bd8324df77.jpeg" width="100" /> 
+ <img src="https://user-images.githubusercontent.com/67728575/264314450-957a3dba-bdb0-4d72-9f42-5667a78eb34b.jpg" width="100" />
+ <img src="https://user-images.githubusercontent.com/67728575/264314428-c3426dfb-833e-4416-8516-73ef9517c08d.jpeg" width="100" /> 
+ <img src="https://user-images.githubusercontent.com/67728575/264314380-20aafd75-c1cc-439b-b4c3-1fe7744cdba8.jpeg" width="100" /> 
+ <img src="https://user-images.githubusercontent.com/67728575/264314358-2938dd46-85e8-4155-9acc-e44f0cbdde68.jpeg" width="100" /> 
+</p>
+
+
 ## 📝 dev.to / medium.com
 
 [![Website Badge](https://img.shields.io/badge/-engineering.agentic.systems.series-teal?style=flat-square&url=https://medium.com/@jasmeetbali.dev.2021/engineering-agentic-systems-part-1-reinforcement-learning-vs-rule-based-inference-22ca11ab5c5f)](https://medium.com/@jasmeetbali.dev.2021/engineering-agentic-systems-part-1-reinforcement-learning-vs-rule-based-inference-22ca11ab5c5f)
