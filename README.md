@@ -1,5 +1,6 @@
-[![Linkedin Badge](https://img.shields.io/badge/-jasmeetbali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jasmeet-singh-bali-057a751b1/)](https://www.linkedin.com/in/jasmeet-singh-bali-057a751b1/)
-[![Website Badge](https://img.shields.io/badge/-jasmeetbali.DEV-black?style=flat-square&url=https://dev.to/jasmeetbali)](https://dev.to/jasmeetbali)
+[![Linkedin Badge](https://img.shields.io/badge/-JASMEET.LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jasmeet-singh-bali-057a751b1/)
+[![Website Badge](https://img.shields.io/badge/-JASMEET.MEDIUM-black?style=flat-square&logo=medium)](https://medium.com/@jasmeetbali.dev.2021)
+[![Website Badge](https://img.shields.io/badge/-JASMEET.DEV-black?style=flat-square)](https://dev.to/jasmeetbali)
 [![Gmail Badge](https://img.shields.io/badge/-jasmeetbali.dev.2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jasmeetbali.dev.2021@gmail.com)](mailto:jasmeetbali.dev.2021@gmail.com)
 
 
@@ -66,7 +67,7 @@
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?style=flat-square)
 
 
-## 🍿 Previews [![Website Badge](https://img.shields.io/badge/-Web.Development-purple?style=flat-square&url=https://book-keeper-j-systems.vercel.app/)](https://book-keeper-j-systems.vercel.app/) [![Website Badge](https://img.shields.io/badge/-Mobile.Development-cyan?style=flat-square&url=https://github.com/JasmeetSinghBali/WatchGuard_360-frontend-open)](https://github.com/JasmeetSinghBali/WatchGuard_360-frontend-open) [![Website Badge](https://img.shields.io/badge/-Desktop.App.Development-white?style=flat-square)]()
+## 🍿 Previews [![Website Badge](https://img.shields.io/badge/-Desktop.App.Development-white?style=flat-square)](https://github.com/JasmeetSinghBali/JSentrix) [![Website Badge](https://img.shields.io/badge/-Web.Development-purple?style=flat-square)](https://github.com/JasmeetSinghBali/Book-Keeper-JSystems) [![Website Badge](https://img.shields.io/badge/-Mobile.Development-cyan?style=flat-square&url=https://github.com/JasmeetSinghBali/WatchGuard_360-frontend-open)](https://github.com/JasmeetSinghBali/WatchGuard_360-frontend-open)
 
   
 <p align="center">
