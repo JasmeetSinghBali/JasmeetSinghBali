@@ -102,11 +102,11 @@
 [![Website Badge](https://img.shields.io/badge/-scope.chain.scope.lexical.environment.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)](https://dev.to/jasmeetbali/scope-chain-scope-lexical-environment-in-javascript-53id)
 [![Website Badge](https://img.shields.io/badge/-undefined.vs.not.defined.in.javascript-teal?style=flat-square&url=https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)](https://dev.to/jasmeetbali/undefined-vs-not-defined-in-javascript-4ja6)
  
-## 🎯 What's Up For 2025:
+## 🎯 What's Up For 2026:
 
-- 🌱 **json rpc orientations**
+- 🌱 **tson and json rpc orientations**
 
-- 🧪 **explore new Agentic Protcols including MCP, A2A**
+- 🧪 **explore KWG's and KG's generations and automation in Agentic AI Systems e2e**
 
 - 🧪 **explore rust & rocket.rs https://rocket.rs/**
 
