@@ -106,10 +106,6 @@
 
 - 🌱 **tson and json rpc orientations**
 
-- 🧪 **explore KWG's and KG's generations and automation in Agentic AI Systems e2e**
+- 🧪 **experiment KWG's and KG's generations, evaluations and automation in Agentic AI Systems e2e**
 
 - 🧪 **explore rust & rocket.rs https://rocket.rs/**
-
- 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=JasmeetSinghBali" alt="JasmeetSinghBali" /></p>
-
