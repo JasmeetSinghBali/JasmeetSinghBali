@@ -94,6 +94,7 @@
 
 ## 📝 dev.to / medium.com
 
+[![Website Badge](https://img.shields.io/badge/-beyond.prompt.response.react.pattern.series-teal?style=flat-square&url=https://medium.com/@jasmeetbali.dev.2021/beyond-prompt-response-workflows-part-1-react-pattern-9d57a6eccb88)](https://medium.com/@jasmeetbali.dev.2021/beyond-prompt-response-workflows-part-1-react-pattern-9d57a6eccb88)
 [![Website Badge](https://img.shields.io/badge/-engineering.agentic.systems.series-teal?style=flat-square&url=https://medium.com/@jasmeetbali.dev.2021/engineering-agentic-systems-part-1-reinforcement-learning-vs-rule-based-inference-22ca11ab5c5f)](https://medium.com/@jasmeetbali.dev.2021/engineering-agentic-systems-part-1-reinforcement-learning-vs-rule-based-inference-22ca11ab5c5f)
 
 [![Website Badge](https://img.shields.io/badge/-nestjs.barebones.controllers.reqobjects-teal?style=flat-square&url=https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)](https://dev.to/jasmeetbali/nestjs-barebones-controllers-reqobjects-4lj7)
