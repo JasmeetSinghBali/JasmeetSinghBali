@@ -78,6 +78,11 @@
 
 </br>
 <p align="center">
+  <img src="https://github.com/JasmeetSinghBali/mock-buildable-land-analysis/blob/stable/misc/buildable_land_analysis_app.gif" width="60%" />
+</p>
+
+</br>
+<p align="center">
   <img src="https://github.com/Jasmeet-1998/Book-Keeper-JSystems/blob/stable/book-keeper/public/keeper-app-preview.gif" width="60%" />
 </p>
 
