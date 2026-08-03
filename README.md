@@ -35,6 +35,8 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
 ![Qdrant](https://img.shields.io/badge/-Qdrant-black?style=flat-square)
 
+![LangGraph](https://img.shields.io/badge/-Langgraph-black?style=flat-square&logo=langgraph)
+![Agno](https://img.shields.io/badge/-Agno-black?style=flat-square&logo=agno)
 ![Langchain](https://img.shields.io/badge/-Langchain-black?style=flat-square&logo=langchain)
 ![LlamaIndex](https://img.shields.io/badge/-LlamaIndex-black?style=flat-square&logo=llamaindex)
 ![LLM](https://img.shields.io/badge/-LLM-black?style=flat-square)
